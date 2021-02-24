@@ -1,0 +1,32 @@
+.programme {
+    border: 0px solid red;
+    width: 240px;
+    height: 290px;
+    margin: 10px;
+    padding: 5px;
+    background-color: #444;
+    color: white;
+    box-shadow: -1px 9px 11px 0px rgba(0,0,0,0.75);
+    border-radius: 0px 0px 7px 7px;
+    img{
+        width: 100%;
+    }
+    
+}
+
+.info {
+
+    p {
+        font-family: 'comic sans ms';
+        margin-left: 5%;
+        width: 80%;
+    }
+    :last-child{
+        float: right;
+    }
+  
+}
+
+.programme:last-child{
+    color: black;
+}
