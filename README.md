@@ -1,3 +1,3 @@
-# Titre du site Web ou application
+# projet react
 
-Court texte présentant votre site Web/application.
+afficher des éléments dynamiquement à partir d'un fichier json et leurs approprié des styles differents
